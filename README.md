@@ -1,24 +1,4 @@
-<h1 align="left">Abhishek Kumar<br>Abhi9354</h1>
 
-###
-
-<p align="left"></p>
-
-###
-
-<h2 align="left">Hello! I'm a beginner coder who's passionate about learning and exploring the world of programming. My GitHub account is a place where I share my coding journey</h2>
-
-###
-
-<p align="left">"Compiling my way to the future 🚀💻"</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="90" alt="javascript logo"  />
