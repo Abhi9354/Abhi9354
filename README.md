@@ -46,18 +46,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="90" alt="css3 logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Abhi9354/Abhi9354/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
-
-###
-
-<p align="left">https://www.linkedin.com/in/abhishek-kumar-a456281b1</p>
-
-###
