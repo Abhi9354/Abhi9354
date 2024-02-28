@@ -23,10 +23,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="90" alt="css3 logo"  />
 </div>
-###
 
 <div align="center">
   <img height="200" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif"  />
 </div>
 
-###
