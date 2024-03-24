@@ -1,3 +1,6 @@
+<a href="https://app.daily.dev/abhishek33"><img src="https://api.daily.dev/devcards/v2/IaCq2aDzfFyrctNKSO423.png?type=wide&r=ejx" width="652" alt="Abhishek's Dev Card"/></a>
+
+
 <h4 align="left">👋 Hello World! I'm Abhishek<br><br>I'm a passionate Computer Science student with a flair for web development 🚀. Currently diving deep into the realms of code to create seamless and visually appealing user experiences.<br><br> 🚀 Skills:<br><br>- Frontend: HTML, CSS, JavaScript, React,Typescript<br>- Other Tech: Git, RESTful APIs<br><br> 🌟 What I'm Up To:<br><br>- 💻 Working on Payr Let's plan it<br>- 📚 Learning NEXTjs<br>-<br><br> 🎯 Goals:<br><br>- 🌐 Building scalable and robust web applications<br>- 🚀 Contributing to open source projects<br>- 📚 Continuous learning and staying updated with the latest tech trends<br><br><br><br>💬 Ask me about:<br><br>Anything web development-related! Whether it's coding tips, project collaboration, or just a tech chat, I'm always up for it.<br><br> 🚀 "Code is like humor. When you have to explain it, it’s bad." - Cory House<br><br>Let's build the web together! 🌐✨</h4>
 
 
@@ -15,7 +18,7 @@
 ###
 ###
 
-<a href="https://app.daily.dev/abhishek33"><img src="https://api.daily.dev/devcards/v2/IaCq2aDzfFyrctNKSO423.png?type=wide&r=ejx" width="652" alt="Abhishek's Dev Card"/></a>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
